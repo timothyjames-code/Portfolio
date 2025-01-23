@@ -1,5 +1,3 @@
-Web Design Portfolio
-
 Welcome to my web design portfolio! This repository showcases a collection of my web design projects, including responsive websites, UI/UX designs, and interactive web applications. My goal is to demonstrate my expertise in creating visually appealing, user-friendly, and functional websites.
 
 🚀 Features
