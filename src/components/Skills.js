@@ -49,7 +49,7 @@ const Skills = () => {
         <Skill name="JavaScript" x="20vw" y="6vw" />
         <Skill name="TypeScript" x="0vw" y="12vw" />
         <Skill name="Next.js" x="-20vw" y="-15vw" />
-        <Skill name="Gatsby" x="15vw" y="-12vw" />
+        <Skill name="ShadCN" x="15vw" y="-12vw" />
         <Skill name="Git" x="-35vw" y="-5vw" />
         <Skill name="UI / UX" x="32vw" y="-5vw" />
         <Skill name="Node.js" x="0vw" y="-20vw" />

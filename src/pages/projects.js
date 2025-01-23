@@ -231,11 +231,8 @@ export default function Projects() {
   return (
     <>
       <Head>
-        <title>Projects | By NexTemp</title>
-        <meta
-          name="description"
-          content="NexTemp, A open-source portfolio theme built with Nextjs"
-        />
+        <title>Projects | By Tim</title>
+        <meta name="description" content="Coding Projects by Tim Corwin" />
       </Head>
 
       <TransitionEffect />

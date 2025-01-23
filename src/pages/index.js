@@ -5,17 +5,14 @@ import Head from "next/head";
 import Image from "next/image";
 import Link from "next/link";
 import TransitionEffect from "@/components/TransitionEffect";
-import profilePic from "../../public/images/profile/Riley.png";
+import profilePic from "../../public/images/profile/Headshot.png";
 
 export default function Home() {
   return (
     <>
       <Head>
-        <title>NexTemp Built with Nextjs</title>
-        <meta
-          name="description"
-          content="Next Portfolio, A open-source portfolio theme built with Nextjs"
-        />
+        <title>TJC Coding</title>
+        <meta name="description" content="Tim Corwin Coding Portfolio" />
       </Head>
 
       <TransitionEffect />
@@ -24,7 +21,7 @@ export default function Home() {
       >
         <Layout className="!pt-24 md:!pt-16 sm:!pt-28">
           <div className="flex w-full items-start justify-between md:flex-col pt-10 pb-24">
-            <div className="w-1/2 lg:hidden md:flex flex self-center max-h-fit">
+            <div className="w-1/2  lg:hidden md:flex pl-auto flex items-center justify-center self-center max-h-fit">
               {
                 <Image
                   priority={true}
@@ -39,19 +36,19 @@ export default function Home() {
             </div>
             <div className="flex w-1/2 flex-col items-center self-center lg:w-full lg:text-center">
               <AnimatedText
-                text="Hey, I’m Riley"
+                text="Hey, I'm Tim"
                 className="!text-left !text-6xl xl:!text-5xl lg:!text-center lg:!text-6xl md:!text-5xl sm:!text-3xl"
               />
-              <div className="flex w-1/2 w-full items-center items-start lg:w-full  lg:!justify-center  sm:!justify-center  md:!text-center md:inline-block md:w-full">
+              <div className="flex w-full items-start lg:w-full  lg:!justify-center  sm:!justify-center  md:!text-center md:inline-block md:w-full">
                 <h2 className="animate-text bg-gradient-to-r from-lightGreen via-lightGreen to-slideGreen bg-clip-text text-transparent font-semibold capitalize !text-5xl xl:!text-4xl lg:!text-4xl md:!text-5xl sm:!text-3xl">
                   I create engaging web experiences.
                 </h2>
               </div>
 
               <p className="my-4 text-base font-medium md:text-sm sm:!text-sm">
-                I'm a front-end web developer at Stellar Innovations, passionate
-                about creating dynamic and user-friendly web experiences. With a
-                keen eye for design and a robust understanding of front-end and
+                I'm a front-end web developer at Metaverse HQ, passionate about
+                creating dynamic and user-friendly web experiences. With a keen
+                eye for design and a robust understanding of front-end and
                 back-end technologies.
               </p>
               <div className="mt-2 flex items-center self-start gap-3 grid-cols-2 lg:self-center">
@@ -61,7 +58,7 @@ export default function Home() {
                   className={`flex items-center rounded-lg border-2 border-solid bg-dark p-2.5 px-6 text-lg font-semibold
             capitalize text-light hover:border-dark hover:bg-transparent hover:text-dark 
             dark:bg-light dark:text-dark dark:hover:border-light dark:hover:bg-dark dark:hover:text-light
-            md:p-2 md:px-4 md:text-base
+            md:p-2 md:px-4 md:text-base 
              `}
                 >
                   Get To Know Me

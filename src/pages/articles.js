@@ -132,11 +132,8 @@ export default function Articles() {
   return (
     <>
       <Head>
-        <title>Development Articles | By NexTemp</title>
-        <meta
-          name="description"
-          content="NexTemp, A open-source portfolio theme built with Nextjs"
-        />
+        <title>Development Articles | By Tim</title>
+        <meta name="description" content="Coding Articles by Tim Corwin" />
       </Head>
       <TransitionEffect />
       <main
