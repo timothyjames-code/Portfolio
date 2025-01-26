@@ -59,20 +59,19 @@ const Experience = () => {
         <ul className="w-full flex flex-col items-start justify-between ml-4 xs:ml-2">
           <Details
             position="Developer"
-            company="Stellar Innovations"
-            time="2020 - 2024"
-            address="200 Innovations st"
-            companyLink="https://github.com/lilxyzz/clay-theme"
-            work="At Stellar Innovations, I serve as a web developer, where I play a crucial role in designing and implementing cutting-edge web solutions. My responsibilities include developing responsive and high-performance websites and applications using technologies such as HTML, CSS, JavaScript, React, and Node.js. I collaborate closely with cross-functional teams to ensure our projects meet the highest standards of functionality and user experience. One of my key achievements at Stellar Innovations has been leading the development of a comprehensive e-commerce platform that significantly enhanced our client's online presence and sales. My work is driven by a passion for continuous learning and innovation, always striving to push the boundaries of what's possible in web development."
+            company="MVHQ"
+            time="2024-current"
+            companyLink="https://app.mvhq.io/"
+            work="At MVHQ, I play a pivotal role in crafting seamless and intuitive user experiences as a front-end developer. Leveraging modern web technologies like React, Next.js, TypeScript, and TanStack Query, I design and implement responsive, reusable components, including modals for user authentication, data visualization, and dynamic forms. I actively collaborate with cross-functional teams to ensure our platform aligns with business goals and delivers an exceptional user experience."
           />
 
           <Details
-            position="Rad Tester"
-            company="Vault Technologies"
-            time="2018 - 2020"
-            address="404 Tech st"
-            companyLink="https://github.com/lilxyzz/holo-theme"
-            work="At Vault Technologies, I worked as a RAD (Rapid Application Development) Tester, where I was responsible for ensuring the quality and functionality of our software applications during the development process. My role involved designing and executing test plans, identifying and documenting bugs, and working closely with developers to resolve issues quickly. This position required a deep understanding of the software development lifecycle and a keen eye for detail to ensure our applications met the highest standards of performance and reliability. My contributions at Vault Technologies helped streamline our development processes and significantly improved the overall quality of our software products."
+            position="Pharmacist"
+            company="CVS Pharmacy"
+            time="2018-2025"
+            work="As a pharmacist, I played an integral role in optimizing patient care through safe and effective medication use. My responsibilities included dispensing prescriptions, providing medication counseling, and collaborating with healthcare providers to develop individualized treatment plans. I utilized my expertise to ensure compliance with regulatory standards and fostered strong patient relationships by addressing medication concerns and promoting adherence.
+
+In addition to clinical practice, I worked extensively with pharmacy management systems such as Epic, Cerner, and Meditech, enhancing workflow efficiency and supporting informed decision-making. My approach has always been rooted in precision, empathy, and a commitment to advancing health outcomes."
           />
         </ul>
       </div>
